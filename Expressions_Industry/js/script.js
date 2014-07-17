@@ -1,3 +1,9 @@
-/**
- * Created by shannonwilliams on 7/16/14.
- */
+//where would I like to work after I graduate
+
+var jobs = ["amazon", "microsoft", "zappos"];
+
+var firstChoice = jobs[2];
+
+
+
+
