@@ -16,3 +16,9 @@ if(goodGrades > averageGrades){
 }else{
     console.log ("Do you want fries with that?");
 }
+var schoolName = prompt("where do you attend school?");
+
+if (schoolName ===""){
+
+    schoolName = prompt("I didn't catch that. Where do you go to school?")
+}
