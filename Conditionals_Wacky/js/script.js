@@ -15,3 +15,8 @@ if(weightLoss > weightGain){
 if (weightGain > weightLoss){
     console.log("Drop and give me 20!");
 }
+
+var userInput = prompt("Are you serious about losing weight?");
+if (userInput ===""){
+    userInput = prompt("Are you serious about losing weight?")
+}

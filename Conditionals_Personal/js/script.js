@@ -10,6 +10,9 @@ reward = (testScore >= 90) ? "Shop for a toy!" : "Study more!";
 console.log(reward);
 
 
-
+var goodBoy = prompt("How are your grades?");
+if(goodBoy ===""){
+    goodBoy = prompt("Tell the truth!");
+}
 
 
