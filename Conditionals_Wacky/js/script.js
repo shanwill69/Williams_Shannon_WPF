@@ -1,3 +1,5 @@
+//Shannon Williams July 23, 2014 Conditionals
+
 //If I lose 10 pounds, I will buy a new shirt
 
 var weightLoss =10; //tells how much weight is lost

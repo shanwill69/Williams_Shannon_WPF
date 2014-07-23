@@ -1,3 +1,5 @@
+//Shannon Williams July 23, 2014 Conditionals
+
 //Will my son get a reward for his grades?
 
 var testScore = 91; //if he gets good grades he will get a reward
