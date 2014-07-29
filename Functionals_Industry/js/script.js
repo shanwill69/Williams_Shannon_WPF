@@ -3,11 +3,11 @@
 
 // how many lines of code can I write in one hour
 
-function writeCode(linesOfCode) {
+function writeCode(linesOfCode) { //used parameter and argument
 
     var perMinute = linesOfCode * 60;
     console.log("I can write " + perMinute + " lines of code per minute");
 
 }
 
-writeCode(4);
+writeCode(3); //called
